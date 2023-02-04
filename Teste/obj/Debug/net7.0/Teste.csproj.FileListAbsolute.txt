@@ -1,0 +1,15 @@
+/home/jose/Área de Trabalho/Estudo/Estudo/Teste/bin/Debug/net7.0/Teste
+/home/jose/Área de Trabalho/Estudo/Estudo/Teste/bin/Debug/net7.0/Teste.deps.json
+/home/jose/Área de Trabalho/Estudo/Estudo/Teste/bin/Debug/net7.0/Teste.runtimeconfig.json
+/home/jose/Área de Trabalho/Estudo/Estudo/Teste/bin/Debug/net7.0/Teste.dll
+/home/jose/Área de Trabalho/Estudo/Estudo/Teste/bin/Debug/net7.0/Teste.pdb
+/home/jose/Área de Trabalho/Estudo/Estudo/Teste/obj/Debug/net7.0/Teste.csproj.AssemblyReference.cache
+/home/jose/Área de Trabalho/Estudo/Estudo/Teste/obj/Debug/net7.0/Teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Área de Trabalho/Estudo/Estudo/Teste/obj/Debug/net7.0/Teste.AssemblyInfoInputs.cache
+/home/jose/Área de Trabalho/Estudo/Estudo/Teste/obj/Debug/net7.0/Teste.AssemblyInfo.cs
+/home/jose/Área de Trabalho/Estudo/Estudo/Teste/obj/Debug/net7.0/Teste.csproj.CoreCompileInputs.cache
+/home/jose/Área de Trabalho/Estudo/Estudo/Teste/obj/Debug/net7.0/Teste.dll
+/home/jose/Área de Trabalho/Estudo/Estudo/Teste/obj/Debug/net7.0/refint/Teste.dll
+/home/jose/Área de Trabalho/Estudo/Estudo/Teste/obj/Debug/net7.0/Teste.pdb
+/home/jose/Área de Trabalho/Estudo/Estudo/Teste/obj/Debug/net7.0/Teste.genruntimeconfig.cache
+/home/jose/Área de Trabalho/Estudo/Estudo/Teste/obj/Debug/net7.0/ref/Teste.dll

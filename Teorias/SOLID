@@ -1,0 +1,14 @@
+S = SINGLE RESPONSABILITY PRINCIPLE
+    Uma classe tem apenas uma única responsabilidade
+
+O = OPEN CLOSED PRINCIPLE
+    "Entidades de software devem ser abertas para extensão mas fechadas para modificação"
+    
+L = LISKOV  SUBSTITUTION PRINCIPLE
+    "Classes derivadas devem poder ser substituídas por suas classes base"
+
+I = INTERFACE SEGREGATION PRINCIPLE
+    "Clientes não devem ser forçados a depender de métodos que não usam"
+
+D = DEPENDENCY INVERSION PRINCIPLE
+    "Abstrações não devem depender de detalhes, mas detalhes devem depender de abstações"
